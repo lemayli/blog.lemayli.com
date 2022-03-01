@@ -62,5 +62,5 @@ ignore: null
 theme: fluid
 deploy:
   type: git
-  repo: https://github.com/lemayli/blog.lemayli.com.git
+  repo: root@155.94.156.121:/home/git/repos/blog
   branch: master
